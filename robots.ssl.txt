@@ -1,0 +1,18 @@
+User-Agent: *
+Disallow: /page22855653.html
+Disallow: /page22873450.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: https://andreykrauzov.com/sitemap.xml
+Sitemap: https://andreykrauzov.com/sitemap-store.xml
+Host: https://andreykrauzov.com
